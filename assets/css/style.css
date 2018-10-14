@@ -65,3 +65,7 @@ footer, .push {
     margin-bottom: -50px;
 }
 
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
